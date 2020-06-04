@@ -1,29 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Ykh的博客</title>
   
-  
+  <subtitle>春有春的好，春天过去，有过去的好</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-18T07:02:33.737Z</updated>
+  <updated>2020-05-18T09:22:04.898Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Ykh</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试slide</title>
+    <link href="http://yoursite.com/2020/05/18/%E6%B5%8B%E8%AF%95slide/"/>
+    <id>http://yoursite.com/2020/05/18/%E6%B5%8B%E8%AF%95slide/</id>
+    <published>2020-05-18T09:17:35.000Z</published>
+    <updated>2020-05-18T09:22:04.898Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="hexo-theme-melody-v1-5"><a href="#hexo-theme-melody-v1-5" class="headerlink" title="hexo-theme-melody v1.5"></a>hexo-theme-melody <small>v1.5</small></h3><!-- .slide: data-background="#49B1F5" --><p>Supports iframe &amp; slides. You can use a layout called <code>slides</code> to enabled the slides layout.</p><p>Also you can add a <code>iframe</code> front-matter with the <code>slides</code> layout in your <code>md</code> file to enable the iframe page.</p><h3 id="Steps"><a href="#Steps" class="headerlink" title="Steps"></a>Steps</h3><!-- .slide: data-transition="concave" data-background="#C7916B" --><h4 id="1-Add-a-slides-page"><a href="#1-Add-a-slides-page" class="headerlink" title="1. Add a slides page"></a>1. Add a slides page</h4><p>// ……</p><p>==</p><p>// ……</p><p>===</p><h4 id="2-Add-the-layout-type"><a href="#2-Add-the-layout-type" class="headerlink" title="2. Add the layout type"></a>2. Add the layout type</h4><!-- .slide: data-transition="fade" data-background="#00C4B6" --><p>// ……</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;hexo-theme-melody-v1-5&quot;&gt;&lt;a href=&quot;#hexo-theme-melody-v1-5&quot; class=&quot;headerlink&quot; title=&quot;hexo-theme-melody v1.5&quot;&gt;&lt;/a&gt;hexo-theme-melody &lt;s
+      
+    
+    </summary>
+    
+    
+    
+      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>文章名</title>
     <link href="http://yoursite.com/2020/05/18/%E6%96%87%E7%AB%A0%E5%90%8D/"/>
     <id>http://yoursite.com/2020/05/18/%E6%96%87%E7%AB%A0%E5%90%8D/</id>
     <published>2020-05-18T07:02:33.000Z</published>
-    <updated>2020-05-18T07:02:33.737Z</updated>
+    <updated>2020-05-18T09:05:21.599Z</updated>
+    
+    <content type="html"><![CDATA[<p>写个文章测试一下</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;写个文章测试一下&lt;/p&gt;
+
+      
     
     </summary>
     
